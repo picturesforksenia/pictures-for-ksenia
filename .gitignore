@@ -1,0 +1,7 @@
+/package-lock.json
+/.env
+/node_modules/
+/.idea/
+/pictures-for-ksenia.iml
+/ressources/
+/credentials/
